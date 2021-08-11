@@ -6,4 +6,4 @@ Forty-seven percent of that $99.6 billion will come from Asia, as you can see in
 Source : http://venturebeat.com/2016/04/21/video-games-will-become-a-99-6b-industry-this-year-as-mobile-overtakes-consoles-and-pcs/
 
 The data has been extracted from www.vgchartz.com and contains sales data of more than 16,500 video games.
-Being a avid Gamer and playing games on my semi-potato PC, I wanted to work on this dataset, and learn more about the Video game Industry revenue.
+Being a avid Gamer and playing games on my semi-potato PC(it just works), I wanted to work on this dataset, and learn more about the Video game Industry revenue.
